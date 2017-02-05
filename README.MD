@@ -1,6 +1,4 @@
-# Introduction to Computer Science with JavaScript, Summer 2017
-
-## Course Overview
+## Introduction to Computer Science with JavaScript, Summer 2017
 
 ### Meetings
 
@@ -20,7 +18,7 @@
 
 ### Textbook
 
-<a href="http://javascriptbook.com/buy/"><img src="http://01eba9f59936628a9c10-a672e330d72d3d2e689cb64015c1f8c5.r97.cf2.rackcdn.com/javascript-and-jquery-book-cover.png" height="250"></a>
+<img src="http://01eba9f59936628a9c10-a672e330d72d3d2e689cb64015c1f8c5.r97.cf2.rackcdn.com/javascript-and-jquery-book-cover.png" height="250">
 
 [Jon Ducket, JavaScript and JQuery: Interactive Front-End Web Development, First Edition, 2014](http://javascriptbook.com/buy/)
 
