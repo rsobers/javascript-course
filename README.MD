@@ -1,4 +1,4 @@
-## Introduction to Computer Science with JavaScript, Summer 2017
+# Introduction to Computer Science with JavaScript, Summer 2017
 
 ### Meetings
 
