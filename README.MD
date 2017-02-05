@@ -14,8 +14,7 @@
 
 ### Office Hours
 
-* Tuesdays 8:30-9:30 PM
-* & other times by appointment
+* Tuesdays 8:30 PM - 9:30 PM & by appointment
 
 ## Required Materials
 
